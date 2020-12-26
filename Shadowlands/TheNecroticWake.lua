@@ -35,6 +35,37 @@ MDT.mapPOIs[dungeonIndex] = {
             ["direction"] = 1;
         };
     };
+    [2] = {
+        [1] = {
+            ["y"] = -432.34543159429;
+            ["x"] = 429.52652014872;
+            ["connectionIndex"] = 1;
+            ["target"] = 1;
+            ["type"] = "mapLink";
+            ["template"] = "MapLinkPinTemplate";
+            ["direction"] = -1;
+        };
+        [2] = {
+            ["y"] = -309.14046023584;
+            ["x"] = 425.26333976934;
+            ["connectionIndex"] = 2;
+            ["target"] = 3;
+            ["type"] = "mapLink";
+            ["template"] = "MapLinkPinTemplate";
+            ["direction"] = 1;
+        };
+    };  
+    [3] = {
+        [1] = {
+            ["y"] = -318.9250489688;
+            ["x"] = 431.10258492707;
+            ["connectionIndex"] = 2;
+            ["target"] = 2;
+            ["type"] = "mapLink";
+            ["template"] = "MapLinkPinTemplate";
+            ["direction"] = -1;
+        };
+    };  
 };
 MDT.dungeonEnemies[dungeonIndex] = {
     [1] = {
