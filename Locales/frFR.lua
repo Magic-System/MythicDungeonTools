@@ -1016,6 +1016,3 @@ L["Zolramus Necromancer"] = "Nécromancien de Zolramus"
 L["Zolramus Siphoner"] = "Siphonneuse de Zolramus"
 L["Zolramus Sorcerer"] = "Ensorceleur de Zolramus"
 L["Zul'Gurub"] = "Zul'Gurub"
-
-]=]
-
