@@ -2435,6 +2435,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
             [1] = {
                 ["y"] = -321.77934782609;
                 ["x"] = 501.65449275362;
+                ["g"] = 42;
                 ["sublevel"] = 1;
             };
         };
@@ -2472,6 +2473,27 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["characteristics"] = {
             ["Taunt"] = true;
         };
+    };
+    [31] = {
+        ["clones"] = {
+            [1] = {
+            ["y"] = -250.15119077354;
+            ["x"] = 485.05193260422;
+            ["g"] = 42;
+            ["sublevel"] = 1;
+            };
+        };
+        ["health"] = 36000;
+        ["id"] = 168326;
+        ["isBoss"] = true;
+        ["encounterID"] = 2410;
+        ["instanceID"] = 1188;
+        ["name"] = "Shattered Visage";
+        ["count"] = 0;
+        ["displayId"] = 96358;
+        ["creatureType"] = "Humanoid";
+        ["level"] = 60;
+        ["scale"] = 1;
     };
 };
 
