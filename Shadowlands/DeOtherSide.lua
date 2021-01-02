@@ -2485,6 +2485,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
         };
         ["health"] = 36000;
         ["id"] = 168326;
+        ["spells"] = {
+            [327426] = {};
+        };
         ["isBoss"] = true;
         ["encounterID"] = 2410;
         ["instanceID"] = 1188;
