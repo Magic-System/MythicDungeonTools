@@ -1,3 +1,6 @@
+v3.4.1
+- fix health calculation
+- added shattered visage blip for mueh'zala fight
 v3.3.5
 - fix plaguefall map texture
 - added necrotic wake map link
